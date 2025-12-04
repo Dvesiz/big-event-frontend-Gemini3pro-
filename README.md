@@ -1,4 +1,4 @@
-<img width="1861" height="913" alt="image" src="https://github.com/user-attachments/assets/6f67278a-4eb2-49f7-b34f-8d14378d7a5e" /><img width="1861" height="913" alt="image" src="https://github.com/user-attachments/assets/82ec756e-dab3-4c7d-91e0-70e06640827f" /># 🌟 大事件内容管理平台前端 (big-event-frontend)
+# 🌟 大事件内容管理平台前端 (big-event-frontend)
 
 本项目是基于 **Vue 3** 和 **Element Plus** 构建的后台管理界面，旨在为 Spring Boot 后端项目提供一个美观、高效的内容管理操作台，实现完整的文章管理、分类管理和用户设置功能。
 
@@ -15,6 +15,10 @@
 
 文章列表支持多条件筛选、分页和完整的 CRUD 操作。
 ![153503c12f8517d3d1ebc3fd4891220e](https://github.com/user-attachments/assets/7fb48fc3-43d5-465b-8331-a48536d7a395)
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/516d9ebd-b491-4a82-825c-d8a5680d7c43" />
+![bc23e294ca90ee439d548166d49228c6](https://github.com/user-attachments/assets/1e0139ec-3107-4f53-9406-66a47b36a5cb)
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/21f5a7e0-dbc4-475b-828d-14ad2bc22df1" />
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/8b891b9a-40d5-4d93-bbdb-f73c422d56d0" />
 
 ---
 
