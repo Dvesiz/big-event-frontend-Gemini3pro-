@@ -89,7 +89,7 @@
         </router-view>
       </el-main>
 
-      <el-footer class="main-footer">Big Event System ©2025 Created by Gemini</el-footer>
+      <el-footer class="main-footer">Big Event System ©2025 Created by Dvesiz</el-footer>
     </el-container>
   </el-container>
 </template>
@@ -97,7 +97,7 @@
 <script setup>
 import { onMounted, ref } from 'vue';
 import { useRouter } from 'vue-router';
-import request from '@/utils/request';
+import 请求 from '@/utils/request';
 import { ElMessageBox, ElMessage } from 'element-plus';
 
 const router = useRouter();
