@@ -45,7 +45,10 @@ import { ElMessage, ElMessageBox } from 'element-plus';
 const categories = ref([]);
 const dialogVisible = ref(false);
 const title = ref('');
-const categoryModel = ref({ categoryName: '', categoryAlias: '' });
+const categoryModel = ref({
+    categoryName: '',
+    categoryAlias: ''
+});
 const formRef = ref();
 
 const rules = {
